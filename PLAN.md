@@ -4,6 +4,14 @@
 
 - CRA [x]
 - Setup Redux:
+
     - Install dep [x]
-    - Create a store []
-    - A root reducer []
+    - Create a store at src/store/index.js [x]
+    - A root reducer [x]
+    - Products feed reducer [x]
+    - Change index.js --> Provider [x]
+    - TEST: log smth in the reducer, check in redux dev tools [x]
+
+- Setup router
+    - Install depx []
+    - Wrap our app in a Router []
